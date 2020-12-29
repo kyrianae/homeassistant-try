@@ -1,5 +1,5 @@
 # 1 Hardware integration
-## 1 Connecition with Connbee 2
+## 1 Connection with Connbee 2
 | Mark    | equipment           | Reference | Column 2        | ha-deconf | ha-zigbee  
 | -       | -                   | -         | -               | :-:       | :-:        
 | Aqara   | double switch       |           | More Stuff      | ok | ko | 
