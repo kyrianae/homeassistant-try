@@ -1,10 +1,10 @@
 # 1 Hardware integration
 ## 1 Connection with Connbee 2
-| Mark    | equipment           | Reference | Column 2        | ha-deconf | ha-zigbee  
-| -       | -                   | -         | -               | :-:       | :-:        
+| Mark    | equipment           | Reference | Column 2        | ha-deconf | ha-zigbee  |
+| -       | -                   | -         | -               | :-:       | :-:        |
 | Aqara   | double switch       |           | More Stuff      | ok | ko | 
 | Aqara   | smart button        |           | Put Pipes In    | ok | ok |
-| Aqara   | cube                |           | Put Pipes In    | ok | ko |
+| Aqara   | cube                |           | Put Pipes In    | ok | ko | heratic behaviour, not really clear
 | Sonoff  | motion sensor       | SNZB-03   | More test to do | ok | ok |
 | Sonoff  | Door/windows Sensor | SNZB-04   | More test to do | ok | ok |
 
