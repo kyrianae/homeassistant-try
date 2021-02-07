@@ -17,4 +17,5 @@
 | Hue      | E27 white and ambiance | Put Pipes In | Hue  | ok     |
 | Hue      | Smart button           | Put Pipes In | Hue  | ok     |
 | Hue      | Smart Dimmer           | Put Pipes In | Hue  | ok     |
+| Tuya      | curtain switch moduel Wifi           | Put Pipes In | Tuya Smart Life  | ok     |
 
