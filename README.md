@@ -17,5 +17,6 @@
 | Hue      | E27 white and ambiance | Put Pipes In | Hue  | ok     |
 | Hue      | Smart button           | Put Pipes In | Hue  | ok     |
 | Hue      | Smart Dimmer           | Put Pipes In | Hue  | ok     |
+| Livaro      | E27 color bulb           | Put Pipes In | Hue  | ok     | white and ambiance quite the same than Philips one, HUE cannot configure start state as one HUE bulb, Colored light is anecdtic, not enough powerfull
 | Tuya      | curtain switch moduel Wifi           | Put Pipes In | Tuya Smart Life  | ok     |
 
