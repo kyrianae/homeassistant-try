@@ -12,7 +12,7 @@
 ## 2 Others Connection
 | Mark     | equipment              | Reference    | Integration | result   | Comments
 | -        | -                      | :-:          | :-:         | -        | -
-| Yeelight | Color bulb             | Put Pipes In | Yeelight | partially ok | Cannot connect on One bulb ?? even with ip manually intered,  while alexa can manage the bulb
+| Yeelight | Color bulb             | Put Pipes In | Yeelight | partially ok | 2 bulbs are ok, but control the both with same switch in one automation is not a really good idea
 | Hue      | Motion Sensor          | Put Pipes In | Hue  | ok     |
 | Hue      | E27 white and ambiance | Put Pipes In | Hue  | ok     |
 | Hue      | Smart button           | Put Pipes In | Hue  | ok     |
